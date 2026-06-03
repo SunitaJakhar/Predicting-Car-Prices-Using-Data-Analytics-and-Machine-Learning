@@ -1,6 +1,6 @@
 # Car Price Prediction Using Data Analytics and Machine Learning
 
-# Project Aim and Methodology:
+## Project Aim and Methodology:
 
 The purpose of this report is to use predictive and machine learning models to analyse the given Car dataset and predict car prices based on their features. The car dataset contains features about different car attributes, such as: Engine size, Horsepower, Fuel type, Body style, Normalized_losses, Engine type, City-mpg, Price (Target Variable), etc., which makes it a perfect example to apply various regression techniques such as Linear Regression, Random Forest and Logistic Regression and build a predictive model for car prices.
 
